@@ -1,4 +1,4 @@
-level - hard 
+-- level - hard 
 
 # Write your MySQL query statement below
 SELECT p.product_id, 
